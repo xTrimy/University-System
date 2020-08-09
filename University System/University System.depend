@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1596935334 source:c:\university system\university system\main.c
-	<stdio.h>
-	<stdlib.h>
-	<stdbool.h>
-
