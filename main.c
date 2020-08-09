@@ -4,7 +4,7 @@
 void Display_Menu();
 void Show_Courses();
 int main()
-{
+{   // kosom trimy
     int id;
     int NumberOfCourses;
     int CreditHours;
