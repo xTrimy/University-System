@@ -8,7 +8,7 @@ int main()
     int id;
     int NumberOfCourses;
     int CreditHours;
-    int TotalCreditHours;
+    int TotalCreditHours = 0;
     char CourseGrade;
     float GPA = 0.0;
     float GradePoint;
